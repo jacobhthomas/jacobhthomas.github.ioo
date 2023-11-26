@@ -1,15 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "New Horizons: Scalar and Vector Ultralight Dark Matter"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'The last decade has seen unprecedented effort in dark matter model building at all mass scales coupled with the design of numerous new detection strategies. Transformative advances in quantum technologies have led to a plethora of new high-precision quantum sensors and dark matter detection strategies for ultralight (< 10 eV) bosonic dark matter that can be described by an oscillating classical, largely coherent field. This white paper focuses on searches for wavelike scalar and vector dark matter candidates.'
+date: 2022-03-28
+venue: 'arXiv'
+paperurl: 'https://arxiv.org/abs/2203.14915'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+The last decade has seen unprecedented effort in dark matter model building at all mass scales coupled with the design of numerous new detection strategies. Transformative advances in quantum technologies have led to a plethora of new high-precision quantum sensors and dark matter detection strategies for ultralight (< 10 eV) bosonic dark matter that can be described by an oscillating classical, largely coherent field. This white paper focuses on searches for wavelike scalar and vector dark matter candidates.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Download paper here](https://arxiv.org/pdf/2203.14915.pdf)
